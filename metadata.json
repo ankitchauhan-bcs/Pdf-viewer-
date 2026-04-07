@@ -1,0 +1,5 @@
+{
+  "name": "PDF Studio",
+  "description": "A web-based PDF editor with merging, splitting, and annotation features.",
+  "requestFramePermissions": []
+}
